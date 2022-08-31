@@ -1,2 +1,0 @@
-# valor-ao-quadrado
- 
